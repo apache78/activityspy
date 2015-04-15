@@ -1,0 +1,25 @@
+04-14 17:01:19.917: I/GreetingsUW(2500): onCreate event fired
+04-14 17:01:19.919: I/GreetingsUW(2500): onStart event fired
+04-14 17:01:19.919: I/GreetingsUW(2500): onResume event fired
+04-14 17:01:42.981: I/GreetingsUW(2500): onPause event fired
+04-14 17:01:42.982: I/GreetingsUW(2500): onStop event fired
+04-14 17:01:42.982: E/GreetingsUW(2500): We're going down, Captain!
+04-14 17:01:42.982: I/GreetingsUW(2500): onDestroy event fired
+04-14 17:01:43.820: I/GreetingsUW(2500): onCreate event fired
+04-14 17:01:43.821: I/GreetingsUW(2500): Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@1ad07c34}}]}]
+04-14 17:01:43.831: I/GreetingsUW(2500): onStart event fired
+04-14 17:01:43.831: I/GreetingsUW(2500): onResume event fired
+04-14 17:03:39.885: I/GreetingsUW(2500): onPause event fired
+04-14 17:03:40.767: I/GreetingsUW(2500): onStop event fired
+04-14 17:03:50.953: I/GreetingsUW(2500): onRestart event fired
+04-14 17:03:51.014: I/GreetingsUW(2500): onStart event fired
+04-14 17:03:51.015: I/GreetingsUW(2500): onResume event fired
+04-14 17:07:16.310: I/GreetingsUW(2500): onPause event fired
+04-14 17:07:16.939: I/GreetingsUW(2500): onStop event fired
+04-14 17:07:28.453: I/GreetingsUW(2500): onRestart event fired
+04-14 17:07:28.484: I/GreetingsUW(2500): onStart event fired
+04-14 17:07:28.484: I/GreetingsUW(2500): onResume event fired
+04-14 17:07:31.498: I/GreetingsUW(2500): onPause event fired
+04-14 17:07:38.865: I/GreetingsUW(2500): onStop event fired
+04-14 17:07:38.865: E/GreetingsUW(2500): We're going down, Captain!
+04-14 17:07:38.865: I/GreetingsUW(2500): onDestroy event fired
